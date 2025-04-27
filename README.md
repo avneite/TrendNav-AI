@@ -66,7 +66,7 @@ Explore trending products, sentiment insights, and inventory mappings interactiv
 ## Libraries Used
 
 - **pandas**, **numpy**, **matplotlib**, **altair** (data handling & visualization).
-- **Hugging Face Transformers**, **Sentence-Transformers**, **KeyBERT** (NLP models).
+- **Hugging Face Transformers**, **Sentence-Transformers**, **NER Based BERT** (NLP models).
 - **spaCy**, **TF-IDF**, **pyspark** (NLP preprocessing & scaling).
 - **fuzzywuzzy / rapidfuzz** (fuzzy matching).
 - **streamlit** (dashboarding).
