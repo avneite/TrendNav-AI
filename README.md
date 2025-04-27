@@ -18,7 +18,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/yourusername/TrendNav-AI.git
-cd trendnav
+cd TrendNav-AI
 ```
 
 Install dependencies:
