@@ -17,7 +17,7 @@
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/trendnav.git
+git clone https://github.com/yourusername/TrendNav-AI.git
 cd trendnav
 ```
 
