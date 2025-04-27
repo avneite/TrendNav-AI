@@ -49,9 +49,11 @@ nltk.download('wordnet')
 ## Usage
 
 Run the Streamlit app:
-
+Access through link : https://trend-navai-app-demo.streamlit.app/
+or 
+use the below code:
 ```bash
-streamlit run TrendNav_Final.ipynb
+streamlit run treamlit-nav-dash.py
 ```
 
 Explore trending products, sentiment insights, and inventory mappings interactively through the dashboard.
