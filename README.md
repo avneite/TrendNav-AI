@@ -71,6 +71,3 @@ Explore trending products, sentiment insights, and inventory mappings interactiv
 - **fuzzywuzzy / rapidfuzz** (fuzzy matching).
 - **streamlit** (dashboarding).
 
-## License
-
-Distributed under the MIT License.
