@@ -1,6 +1,9 @@
-# TrendNav: Real-Time Product Trend Analysis Across Reddit and Amazon
+# TrendNav AI - Social Signal-Driven Product Trend Discovery (Opportunity Scanner) for E-commerce Sellers 
 
-**TrendNav AI** is an AI-powered system designed to help small and mid-sized e-commerce sellers identify emerging product trends early — before they gain traction on major marketplaces. By continuously monitoring social media signals (such as Reddit and Amazon), TrendNav AI uncovers high-demand opportunities and highlights areas where sellers can optimize based on inventory availability. Leveraging state-of-the-art NLP and marketplace mapping, the system delivers timely, actionable insights that enable smarter listing strategies, better sourcing decisions, and improved inventory planning. It aggregates conversations from **Reddit** and **Amazon**, identifies trending products, and assesses customer sentiment. The insights are visualized through an interactive **Streamlit dashboard**. This project runs on **Amazon SageMaker**, ensuring scalable, cloud-based processing and model inference for large datasets.
+
+**TrendNav AI** is an AI-powered system designed to help small and mid-sized e-commerce sellers identify emerging product trends early — before they gain traction on major marketplaces. By continuously monitoring social media signals (such as Reddit and Amazon), TrendNav AI uncovers high-demand opportunities and highlights areas where sellers can optimize based on inventory availability. Leveraging state-of-the-art NLP and marketplace mapping, the system delivers timely, actionable insights that enable smarter listing strategies, better sourcing decisions, and improved inventory planning.
+
+It aggregates conversations from **Reddit** and **Amazon**, identifies trending products, and assesses customer sentiment. The insights are visualized through an interactive **Streamlit dashboard**. This project runs on **Amazon SageMaker**, ensuring scalable, cloud-based processing and model inference for large datasets.
 is an AI-powered system designed to bridge this gap by continuously monitoring social media signals (Reddit, Amazon) and identifying emerging product trends before they gain traction on major marketplaces and identify high opportunity areas based on their inventory availability. 
 
 
