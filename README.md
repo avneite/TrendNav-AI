@@ -73,3 +73,18 @@ Explore trending products, sentiment insights, and inventory mappings interactiv
 - **fuzzywuzzy / rapidfuzz** (fuzzy matching).
 - **streamlit** (dashboarding).
 
+## 📌 Contributor Note
+
+This repository was originally created and maintained by **Auroshika Mohanty** as part of a team project at the Carlson School of Management.  
+You can find the original source here: https://github.com/aurosikha-mohanty/TrendNav-AI  
+This fork is for visibility and documentation of my personal contributions to the project.
+
+### 👤 My Key Contributions:
+- Implemented **Named Entity Recognition (NER)** using RoBERTa for Amazon product mentions  
+- Developed **phrase grouping logic** using **spaCy** and **TF-IDF**  
+- Contributed to the **trend scoring algorithm** based on sentiment polarity and keyword frequency  
+- Enhanced the keyword extraction process using **KeyBERT** and entity recognition techniques  
+- Supported the creation of **insights visualized in the Streamlit dashboard**
+
+> _This fork is intended for showcase and personal portfolio purposes only._
+
