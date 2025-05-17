@@ -81,8 +81,7 @@ This fork is for visibility and documentation of my personal contributions to th
 
 ### 👤 My Key Contributions:
 - Implemented **Named Entity Recognition (NER)** using RoBERTa for Amazon product mentions  
-- Developed **phrase grouping logic** using **spaCy** and **TF-IDF**  
-- Contributed to the **trend scoring algorithm** based on sentiment polarity and keyword frequency  
+- Developed **phrase grouping logic** using **spaCy** and **TF-IDF**    
 - Enhanced the keyword extraction process using **KeyBERT** and entity recognition techniques  
 - Supported the creation of **insights visualized in the Streamlit dashboard**
 
